@@ -1,0 +1,15 @@
+.div1{
+	position: absolute;
+	top: 30%;
+	left: 10%;
+	width: 25%;
+	height: 15%;
+	background-color: #ffffff;
+	opacity: 45%;
+	font-family: titulo3;
+	font-size: 250%;
+}
+@font-face{
+	font-family: titulo3;
+	src: url(titulo3.otf);
+}
