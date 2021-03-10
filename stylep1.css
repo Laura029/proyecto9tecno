@@ -36,6 +36,18 @@
 	font-size: 250%;
 	color:#9700FF ;
 }
+.div4{
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	width: 25%;
+	height: 15%;
+	background-color: #ffffff;
+	opacity: 45%;
+	font-family: titulo3;
+	font-size: 250%;
+	color:#9700FF ;
+}
 @font-face{
 	font-family: titulo3;
 	src: url(titulo3.otf);
